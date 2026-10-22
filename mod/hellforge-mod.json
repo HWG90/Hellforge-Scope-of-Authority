@@ -1,0 +1,9 @@
+{
+  "format": 1,
+  "id": "goose.scope-of-authority",
+  "name": "Scope of Authority",
+  "version": "0.1.0",
+  "description": "The Scope of Authority warbond's weapons from the live game (01.007.200) on HellForge's build: R-40 Sightliner, P-44 Mist, AMW-20 Apex and its backpack, LAS-44 Nova, and the live G-11 Caltrops. Records, projectiles and damage are the live game's own; models, sounds and icons are built from your Steam install.",
+  "gameplay": true,
+  "code": { "dll": "scope_of_authority.dll", "sdk": 12 }
+}

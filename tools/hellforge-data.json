@@ -1,0 +1,1614 @@
+{
+  "format": 1,
+  "patches": [
+    {
+      "archives": [
+        "2404fa21fe49c32d"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0x3C4108EA95195CCC",
+            "0x6FC43B1E37553DB6",
+            "0x7223C19511537337",
+            "0x9BCA4B8601F40676",
+            "0xE63C9B3570413F3E"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x41F2DEF484634B59"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0xA133891F225837A4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x5DCBEEA1214B73B2"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x41F2DEF484634B59"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "state_machine",
+          "include": [
+            "0x41F2DEF484634B59"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x24621A797E9FBCAF",
+            "0x63E00E07701EE3C6",
+            "0xD805AA6DE34493D4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x41F2DEF484634B59"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_bank",
+          "include": [
+            "0xC62F923580B9695C"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_dep",
+          "include": [
+            "0xC62F923580B9695C"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x986E6696B34B8902"
+          ]
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x0A90899D196CAFA8",
+            "0x157FEB66C8D9620B",
+            "0x21E17DB0591A09AC",
+            "0x3FAD5A7BD8524BD3"
+          ]
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x986E6696B34B8902"
+          ]
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x0C8BD539D919AC37",
+            "0x39E76652BE1F600F",
+            "0x5F8F510D42606715",
+            "0x6C5C5A8AECA25D7F",
+            "0xD65689F0AE3AEB97",
+            "0xE9ED7F0B86710E14",
+            "0xF5C5B48279A47279"
+          ]
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x8A35C1DC19F41870",
+            "0x986E6696B34B8902"
+          ]
+        }
+      ]
+    },
+    {
+      "archives": [
+        "99f20df1c4cf885a"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0x000BFCAC1195A358",
+            "0x1591D9EC5A9F5EA5",
+            "0x21D2AE1E2BF5952B",
+            "0x4CC06BE9F207C5F7",
+            "0x606F528104949712",
+            "0x7492F73608DBCA5C",
+            "0xA012D1D3B3BB2970",
+            "0xAA3CA876DE7D9649",
+            "0xB449DF7849C5FC65",
+            "0xB9DED115E8449332"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x027DEC442CC26A90",
+            "0x1D908F18A11708E6"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x2C08F93FFBBEA9B7",
+            "0x617263ADC5F2D403"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x0769568E4902946B"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x027DEC442CC26A90",
+            "0x1D908F18A11708E6"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "state_machine",
+          "include": [
+            "0x027DEC442CC26A90"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x152F225E0E791655",
+            "0x2B4CFCFDD29735E6",
+            "0x55A1BA9CB4AE0410",
+            "0x5F4A07DC26271FF0",
+            "0x7B4031FDA2994681",
+            "0xABB75FB0C88F715E"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x027DEC442CC26A90",
+            "0x1D908F18A11708E6"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_bank",
+          "include": [
+            "0x307EBEFDABF142B4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_dep",
+          "include": [
+            "0x307EBEFDABF142B4"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "6ca87637eaeb5923"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0x3AD531A7EE1F233E",
+            "0x5864DCE8EF556782",
+            "0x61C989AFDB95A737",
+            "0x671E05C488C1F65E",
+            "0x8188F08A4126CF90",
+            "0x903D995720110CD0",
+            "0x9E4B71C8E5D03A15",
+            "0xB83EC35B2D4AFB8D",
+            "0xC52635A70307839D",
+            "0xEEB6809ABC7A2DE5"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x2A07AF5448E35508",
+            "0x404214812BA6400C",
+            "0xB814EECE17533BC4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x3D3527888E7AE1F6",
+            "0x44A681CF7D6A3640",
+            "0xB9FAADF913432FDC"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x6D2E80BE096BB598"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x404214812BA6400C",
+            "0xB814EECE17533BC4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "state_machine",
+          "include": [
+            "0xB814EECE17533BC4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x122CE6BAE8C6792F",
+            "0x267DF863EE69C94E",
+            "0x29B62E361FDE076A",
+            "0x540BF1E3FA599DEE",
+            "0x612A7F2ACD8BD1C5",
+            "0x70549FC9A1332B30",
+            "0x712E6C235F21E06B",
+            "0xB344768F552358A0",
+            "0xCA9A2C5DF7E04CAA"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x2A07AF5448E35508",
+            "0x404214812BA6400C",
+            "0xB814EECE17533BC4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_bank",
+          "include": [
+            "0xA9C4725924630132"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_dep",
+          "include": [
+            "0xA9C4725924630132"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0xBC81E1C92AC438E6",
+            "0xC7E4DE24EE0A2A3D",
+            "0xC9EF8AD9A2BBAE84"
+          ]
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x0534FF3653CC0CEE",
+            "0xA91E4527859ADA75"
+          ]
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x17F5E1266BBAE879",
+            "0x1BCF2C1EC8B0CD5D",
+            "0x453F6C030C1E9F28",
+            "0xA77FE193C439C83F"
+          ]
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0xA91E4527859ADA75"
+          ]
+        }
+      ]
+    },
+    {
+      "archives": [
+        "15eb7241c3616351"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0x4AAC298B4DB2A472"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x0949EEB3DC920324"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x44A681CF7D6A3640",
+            "0x548179BFCEB034C6",
+            "0xF1D0258DB791D9B3"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x0949EEB3DC920324"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "state_machine",
+          "include": [
+            "0x0949EEB3DC920324"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x122CE6BAE8C6792F",
+            "0x1A83AE7A25D9CD00",
+            "0x267DF863EE69C94E",
+            "0x27FC7BF4A3AD54B0",
+            "0x70549FC9A1332B30",
+            "0x9344A6E753B3BE95",
+            "0xA05A38567959BC38"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x0949EEB3DC920324"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x2CC7DEC95906AAD0",
+            "0xE7E9EC40A4EA4E5D"
+          ]
+        }
+      ]
+    },
+    {
+      "archives": [
+        "cf1acde501ccfa1b"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0xCD388D5A35DB2F00"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x73D84EAAE8C75342"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x3D8573F12DC5226D",
+            "0xC1F314D940A53371",
+            "0xDF34BC0D8AA7419D"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x9A8745228C68D36C",
+            "0xA513C111422196AD",
+            "0xA7E983909E7C9593"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x73D84EAAE8C75342"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "state_machine",
+          "include": [
+            "0x73D84EAAE8C75342"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x1688EE94D411B468",
+            "0x47C5212759913BB2",
+            "0x95FB4EC8A018B677",
+            "0xB0E995B3B533E981"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x73D84EAAE8C75342"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_bank",
+          "include": [
+            "0x92CAFE3676890FE4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "wwise_dep",
+          "include": [
+            "0x92CAFE3676890FE4"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "bones",
+          "include": [
+            "0x44A2A59CA08AC865"
+          ]
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x53F84CCCDCF3A248",
+            "0x543838FFE71B55C1",
+            "0x909B03FBA43121A4"
+          ]
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x12CA15252610A40A",
+            "0x28817E48B7596CFA",
+            "0x42AFB5B8BEDA67C4",
+            "0xA81955A1FA4AC086"
+          ]
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x44A2A59CA08AC865"
+          ]
+        }
+      ]
+    },
+    {
+      "archives": [
+        "007e093ca718ca1a"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x3E8C3E7F763EA68B",
+            "0x55055C3FC1AC3EEC",
+            "0x6D2A4B55B3CA1874",
+            "0x861192B2399B9F57",
+            "0xA48BD4C012C54CD1",
+            "0xB03031AA11FAB904",
+            "0xCBA1C45F0948F247",
+            "0xEC80287D007D6277"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x3E8C3E7F763EA68B"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "009cb913478ad077"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x24CC2A250B0D014A",
+            "0x53DD06F55430D9EA",
+            "0x5E250E8656E445F2"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x3FDD9A41C8521E4D",
+            "0xBE0164BC97569F1D"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "009da023c64d178d"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0x43928E13466F07F1",
+            "0x6C03D3CD91357D4A"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "0296cbe5005ea13f"
+      ],
+      "resources": [
+        {
+          "type": "physics",
+          "include": [
+            "0x2B1E0FA34C78B91E"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "033fd51c0660afa2"
+      ],
+      "resources": [
+        {
+          "type": "texture",
+          "include": [
+            "0x2528BBAECBBE722C",
+            "0x7664B991F7D9FC22",
+            "0xBF359BFC49706724",
+            "0xDFCF6EC535DEA064",
+            "0xE8630B66197D5150",
+            "0xFFF4149072208103"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "046d4441a6dae0a9"
+      ],
+      "resources": [
+        {
+          "type": "wwise_stream",
+          "include": [
+            "0x26E32A1E006DAF79",
+            "0x43DCA20F5FB27405",
+            "0x4CD763FCE62FC6F3",
+            "0x60DF0357595A3EC1",
+            "0x65552965664D8878",
+            "0x69BC88DF03535563",
+            "0x7A554D5736E8E929",
+            "0x7B17779241C6D96D",
+            "0x859ABE01A7D6808B",
+            "0x878534A7FC83E5C6",
+            "0x8BFF32AD29FFAA0D",
+            "0xA91FE318998D170D",
+            "0xD07E8EE81B4C26F5",
+            "0xE41F04A8EE13B409",
+            "0xF202DE93FCA9744E"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "07f10cad298067ec"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x2528BBAECBBE722C",
+            "0x7664B991F7D9FC22",
+            "0xBF359BFC49706724",
+            "0xDFCF6EC535DEA064",
+            "0xE8630B66197D5150",
+            "0xFFF4149072208103"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "08b786841647dec7"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0xD7BD95630FDC75A7"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "0f86e5a5be344c5a"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x5CE64BFA54AE994A"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x8B1724DDEFFFFC80",
+            "0xCA2AAA64A0D42C7A"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x23BA7FB5750ACCFF"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "108bfa19d1a05a78"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x58F5B6CA95B8EDF1",
+            "0xF4AA7AD63650BD3B"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x208C36BE284F2157",
+            "0x6E9F364C7750111E",
+            "0x723AF023EAF60D99",
+            "0x79B9FC1BFD1A13D0",
+            "0xAFCF18948A9C50A7",
+            "0xFA6FC150E01AE513"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "1538ce9a1eaee5d8"
+      ],
+      "resources": [
+        {
+          "type": "wwise_stream",
+          "include": [
+            "0x15E2149F7DDDC06D",
+            "0x400B06190EC08FB0",
+            "0x43D62CC92BF9D30F",
+            "0xB2DEF17C519342D2",
+            "0xBF6974CBFAB5649B",
+            "0xDD67B3B4FDF1F7AA",
+            "0xF31A9824252B7262"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "18235e0c9ec0e636"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0x019AC4972031FF38",
+            "0x0ED3F15DA4AFA582",
+            "0x1DFB7BA1599C2029",
+            "0x21865978545B35AC",
+            "0x31033EA6F0669E92",
+            "0x417170BAAC29F8F0",
+            "0x4291CD7997A05E01",
+            "0x451F996D16D87316",
+            "0x4B4D47B43F7EB3D0",
+            "0x4FDCC6B1CEA1A7E5",
+            "0x556D6060DDEB7850",
+            "0x57C03B9CD35C156A",
+            "0x5AC01799E4BF11E9",
+            "0x5FBC98F22D4162D7",
+            "0x623E11B461CED714",
+            "0x6250BA7971049DC4",
+            "0x683B74C0E446FEB8",
+            "0x68FDBCBD62ACC34F",
+            "0x756A48B8BC2868C0",
+            "0x7B07C52DC23F0702",
+            "0x88D19B9CBFD6A1E2",
+            "0x900D7129441FF396",
+            "0xA2F1D9C7D16EF1F4",
+            "0xAF47B5E9CDCDA496",
+            "0xBFF86F7CE05E6E62",
+            "0xC3EF5254189AE607",
+            "0xC5F05F8D5631C1DD",
+            "0xC66D71E566A428BB",
+            "0xCDADA61E8FA0B248",
+            "0xCEF291F98B67ED19",
+            "0xDE5594EB66FB7678",
+            "0xE2184B4D546F01D0",
+            "0xE7B220FCAB20EF63",
+            "0xEBB7E78DD8474032",
+            "0xF8151132F3282E70",
+            "0xFD7B7C7AD9958DD2"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "material",
+          "include": [
+            "0x78762135B3CA5CDA",
+            "0x8A97A7385081866E",
+            "0x8D59BC1C62982A3F",
+            "0x8E7EFCDF45AC19CF",
+            "0xB388F9C94D59D6FA"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x0D371130BA00ADDB"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "1f881b1c0b28d702"
+      ],
+      "resources": [
+        {
+          "type": "unit",
+          "include": [
+            "0x52EEE5FA9A598832"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "227fbfe692a34f06"
+      ],
+      "resources": [
+        {
+          "type": "wwise_stream",
+          "include": [
+            "0x0F85DE01C036D4E9",
+            "0x2002A7D89C9FB64A",
+            "0x57C35271F1185C2D",
+            "0xAFA40AD37296249D",
+            "0xD54AAD819995E6C7",
+            "0xFBFB2C3651F1E5E9"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "2685639469ae5090"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x9351D9C9B6F44CCA"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0xC3A62B76FCA7F01F"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "31eac42b410adba5"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0xC1CD143491FBF0F1"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "349fd0b485a07d54"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x5582BCDA82F216D6",
+            "0xAD1EEAA01671649D"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "35cbcf1adb1c54b5"
+      ],
+      "resources": [
+        {
+          "type": "wwise_bank",
+          "include": [
+            "0x0D5DEA7A2D593DDE"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "3b2c86dd5b316eb2"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x0DB3951B02F814D4",
+            "0x58FC3331C7B5655E",
+            "0x871118E945BA32CD",
+            "0x8D2955AB2A9C75CE",
+            "0x9A1C78B631418070",
+            "0xA5BE0ACB21D275D3",
+            "0xC6C9FE830C090D5B"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x289938F50682DC1D",
+            "0x28A70D2141E51437",
+            "0x30072340621EF3B1",
+            "0x4334739886154D51",
+            "0xD4AC782E85324C2C",
+            "0xDA7183C559FE1506",
+            "0xE36A6D4B6059D432"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x91C23200653E4B82",
+            "0x932B04592548FCFE",
+            "0xAA7A053CD94DBCB3",
+            "0xD2E69A2B7CE196C0"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x3A6E9B8686746ABE",
+            "0xA2A2948B03751161",
+            "0xFA44EF6B110274EB"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "445dfb5a150bc2aa"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0xFDB0151366655147"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x2780868FB9BB1578",
+            "0x57E1A4A802EFEA74",
+            "0xD7D3A203C43D060B"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "4817198e539e1e01"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0x2B31F44033EBA5E3"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "4b7bd0cbf5b59fcf"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x16B1BF54D17F06FD",
+            "0x33AA3BC011FA6DAA",
+            "0x58F72CB6487AB3E4",
+            "0x5BC7BA96C07A9245",
+            "0xA77A4A69518F8375",
+            "0xD7B028804AB1913E"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x273E0574CD9AE69F",
+            "0x33AA3BC011FA6DAA",
+            "0x58F72CB6487AB3E4",
+            "0x5BC7BA96C07A9245",
+            "0x7228271BEAB70176",
+            "0x85A5847465634E1D",
+            "0x89E559C1605EE6D5",
+            "0xBD15D077457E28D2",
+            "0xD7B028804AB1913E",
+            "0xDC79EAB99D03F12A",
+            "0xDDA20CC0D5D07C07"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "553512fc9bad4e67"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x0B7B17D22C3FC666"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x13E2B5596FF7A6F4",
+            "0x4ADB3BE2844FDB32"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "688ee018d4691ebf"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0xB4513E365ABDCB67"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "68aa9a343aa4333c"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0xD4C9DD38AE93575D"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "6a3eecfddce28fe8"
+      ],
+      "resources": [
+        {
+          "type": "texture",
+          "include": [
+            "0x55055C3FC1AC3EEC",
+            "0x6D2A4B55B3CA1874",
+            "0x861192B2399B9F57",
+            "0xA48BD4C012C54CD1",
+            "0xB03031AA11FAB904",
+            "0xCBA1C45F0948F247",
+            "0xEC80287D007D6277"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "6d9c73680586a762"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x231A660DC60EF70C",
+            "0x382E6E2CD6EFB011",
+            "0x8F5F465DF2F53995",
+            "0xDA1738C71C69AC26"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x231A660DC60EF70C",
+            "0x2913843767088C1B",
+            "0x382E6E2CD6EFB011",
+            "0x42683F478D4CD96B",
+            "0x4E69B7D75A98E527",
+            "0xDA1738C71C69AC26"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x01672E6E41AD9D69",
+            "0x43033F354054FBAB",
+            "0x71D034DC5D79859B",
+            "0x99324C8396E0BF55",
+            "0x9BF12FFA46AF23F4",
+            "0xF80AA234E9DA4D0A"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x231A660DC60EF70C",
+            "0x2913843767088C1B",
+            "0x382E6E2CD6EFB011",
+            "0x42683F478D4CD96B",
+            "0x4E69B7D75A98E527",
+            "0xDA1738C71C69AC26"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "715dcc69bf13acb0"
+      ],
+      "resources": [
+        {
+          "type": "wwise_stream",
+          "include": [
+            "0x0419F47BD6029307",
+            "0x0811CE5FF8A97827",
+            "0x0AECF6452C49D9FF",
+            "0x1340EBFA77C4E453",
+            "0x1D34266A35BA57A4",
+            "0x20450E884C7E9F6C",
+            "0x2C034802DE224442",
+            "0x2DBE350D9E75F445",
+            "0x2E44CAD41D00DF60",
+            "0x30127EE6218D8E06",
+            "0x329DB1D108AF47F9",
+            "0x3389D0554216B1FD",
+            "0x36D0AC7F2CA114B2",
+            "0x5465DA8DC75BBCEC",
+            "0x57CAFEC140C31EFE",
+            "0x6455309CC23F44C0",
+            "0x64A38F6E1DD0227E",
+            "0x69D34A203B6C8223",
+            "0x69FE4D0853D0156B",
+            "0x6AD73870719D8688",
+            "0x6F63D815CB86D84F",
+            "0x73CA0ACB7EF86719",
+            "0x79DFE333CEA6E562",
+            "0x7C1D279121653F4B",
+            "0x7DD88BFCDF1F50DD",
+            "0x858B24CFD5E2F025",
+            "0x87EE39C56B2FE01D",
+            "0x8C56ED33418727F8",
+            "0x8D9DD007460C5602",
+            "0x919D637B85AA770C",
+            "0x922925B4BD8B04DB",
+            "0x986DAB3FA986D9B5",
+            "0x993967812B5385EE",
+            "0x995FC6F556C60B6B",
+            "0xA5127D29814733AE",
+            "0xA73DD31778F9072A",
+            "0xAB8E089CC4CCBE03",
+            "0xAEC63D87D4C62E18",
+            "0xBD805B1D5225C16B",
+            "0xBDC71594E46D0312",
+            "0xC1FC66907815F11D",
+            "0xC5D3D08DDA2DCBD7",
+            "0xC6C6258A6B00701A",
+            "0xD5FA2CBF19777549",
+            "0xD8283758D02AF045",
+            "0xD9BA721EB57AA07D",
+            "0xDC2E2D88F54E1DF0",
+            "0xDDA354758D2698D8",
+            "0xE3E18945A26C3D99",
+            "0xE744C038BD0B10CE",
+            "0xE8856541322E8802",
+            "0xEC8853617482D0E3",
+            "0xEDEFB1B5DB8515C3",
+            "0xF1A794CDC3FD1172",
+            "0xF3661F3C56E6082A",
+            "0xF517D7C09D355F1A",
+            "0xF7866178291780D6",
+            "0xFE4CF46029366435"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "762903c2b412d13b"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x7952188DF3F1C84B",
+            "0x79640DEDE443D8B5",
+            "0xB7F22672F8104608"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "78151f5325a10f04"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x5BD97DA37949148C",
+            "0x7B87B86820F12D08",
+            "0x9ED91E530FF7CF63",
+            "0xC154EFB5B41A418F",
+            "0xE71AC2BCDA34F929",
+            "0xE94755E103576388"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x5EA4C48DEFFAD920",
+            "0x96072F66D66EA61D",
+            "0xB939EBBB7B3CD8BE",
+            "0xF4A8319C575F492B"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x01788067A1AE074F",
+            "0x1031B1D1EF813C47",
+            "0x16F9C58D55C9BD02",
+            "0x243CBE182E29F730",
+            "0x2AD931A3BA61C204",
+            "0x2F2479DA6C4397EF",
+            "0x36A1E1FBCD3F3126",
+            "0x46427F8741A34895",
+            "0x52415566819CDD52",
+            "0x609C07CC7C97BCFA",
+            "0x65C26FE967BAB0AA",
+            "0x849E4FBEE33D6C35",
+            "0x8D271433DAD4AE29",
+            "0x9036DFB103D457FE",
+            "0x9643C3C1D122755A",
+            "0xBCF9114DAD752F5C",
+            "0xCD956C17054CC25B",
+            "0xD0F5C0F0FB1E454B",
+            "0xD1B2E429E378238F",
+            "0xE0C491F621F6C135",
+            "0xE3C965842C8F1011",
+            "0xF6D0A144AEE447EA"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "792b2a2ba11ae85d"
+      ],
+      "resources": [
+        {
+          "type": "animation",
+          "include": [
+            "0x09794C2CE4D09013",
+            "0x1878A11DC7F18818",
+            "0x1CA8C51A48A9C7F8",
+            "0x21CA337B3B591478",
+            "0x227C1143582696A3",
+            "0x2DDD84FD077AB921",
+            "0x33A63F79D6C8C6EB",
+            "0x3B4B782EBB4C6424",
+            "0x3E4C734F7CAC24DE",
+            "0x3E713DB9BD8860AE",
+            "0x4797927D1D9FD7B6",
+            "0x65615CE8A5C2EDE5",
+            "0x6EAC03D18FDC1B59",
+            "0x70357F6CB251C8F8",
+            "0x72FD3FD58CB9628E",
+            "0x77EAF199A572D0B4",
+            "0x7E2085E39672EF48",
+            "0x8C875611397F9D7B",
+            "0x9AE0C8EFF8E45603",
+            "0xA2496EC5906702D0",
+            "0xB0EB3862ED8C04F7",
+            "0xB2674D4147CB5004",
+            "0xB396E6AA2C30BE96",
+            "0xBD7A64EF9310F111",
+            "0xC8610631FF64226A",
+            "0xD69EF81C036A25D3",
+            "0xD7C6464F3E05C97C",
+            "0xF6AEF313CF6C467A",
+            "0xFA09232E100F3F32"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "7ed1f941859987b4"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x1B5E15E18E0FBB0F",
+            "0x6BF442F4A6D4F4DF",
+            "0x9B09AF6939A21CEE",
+            "0xACDDF1BC87E9EB1A",
+            "0xDD9C6E114F615597"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0x0320A42E432630C9",
+            "0x0B3A06D4234EC3AA",
+            "0x1439448415FFFB85",
+            "0x1F1F3924670BA603",
+            "0x3765DB2C2590753A",
+            "0x4430306C3C857071",
+            "0x458FBEE4EDCE5C58",
+            "0x5A4CA875883BDBD1",
+            "0x5AD5D636AEE783A5",
+            "0x65FC60EBB534D10E",
+            "0x6C664B5144CC1454",
+            "0x97C69AFC3C727273",
+            "0xA4E0D6EEF42E7D79",
+            "0xB9A7478EFE89E05A",
+            "0xE42BA6A886104214"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x07D7E676E2BF2434",
+            "0x685CF16158D5760C",
+            "0xE2B7337909BE8B28"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "8bb19e255ed514d5"
+      ],
+      "resources": [
+        {
+          "type": "texture",
+          "include": [
+            "0x0FDE168918C751F5",
+            "0x16B1BF54D17F06FD",
+            "0x3FC78B11D646F014",
+            "0x694A398FF07991A7",
+            "0xA77A4A69518F8375",
+            "0xBC02EBEAFE52E19F",
+            "0xF71551C15FE79363"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "9e430d763af434c1"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0x2592D0C58C1AFD7B"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "be01f1529f774970"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x1D32E353131F3602",
+            "0x1D45F33ABFA1271B",
+            "0xCB5601CAAA9F4DEE"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "particles",
+          "include": [
+            "0xA8CE9FA1D8E178FF",
+            "0xDB236A98991D60BF",
+            "0xF4A13CC52B1A7F24",
+            "0xFB105F1035946456"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0xB627D0F05BA2A419",
+            "0xDD3403E006E5CB5B"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x399E269B05BDCDBE",
+            "0xA55D4FC24BE8EEE3",
+            "0xA6A99A0D5D3252D5",
+            "0xBBE0CFA8CF4D885E",
+            "0xDC29482F8AC2AD3C",
+            "0xE838FCC8B3308D0C"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "fc5b6bff0db90aab"
+      ],
+      "resources": [
+        {
+          "type": "material",
+          "include": [
+            "0x05DA2BD256ACC3D1",
+            "0x2DDC0FBE37C30CD4",
+            "0x55418BE885807619",
+            "0x598626893675B732",
+            "0x685D7C12934C16F7",
+            "0x750536AFB49EFCB3",
+            "0x86BACA04B21BD664",
+            "0x936EC1B791CA08CB",
+            "0xA5D4467199DF8FC7",
+            "0xA68ED38CDCF71A32",
+            "0xCDE98ADB2068A1AB",
+            "0xFB7A43FD56A2BDF7"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "physics",
+          "include": [
+            "0x5F348D68D3848478"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "texture",
+          "include": [
+            "0x0AE7ABC6D4E61BDD",
+            "0x17170B72FCB40FBD",
+            "0x17581ED57B62F219",
+            "0x1A12B28A98BD5AB4",
+            "0x25603C08FD4CFCA3",
+            "0x262084AB561067C0",
+            "0x3399E391F00C5500",
+            "0x381B66D189A077E9",
+            "0x3D9DC7A5BEEBC0B1",
+            "0x4817ED2843634DE6",
+            "0x483CC711DE74B2DC",
+            "0x4B7224ED7881073E",
+            "0x4BF2EA8FDE9051CA",
+            "0x4C5330DA148F8DB1",
+            "0x50264D01936F7FD4",
+            "0x5122E8C0A3E1DA75",
+            "0x5962D48514FAB8FC",
+            "0x6E332D317F0D0BEB",
+            "0x7C85C8BC6E2B6E79",
+            "0x7DC2B0FF25768D6C",
+            "0x87B2E020C21FD512",
+            "0x8FA55F327A4F1EC6",
+            "0x90FE950DF34741E9",
+            "0x9953F4A09527E431",
+            "0xA9316754B55041D8",
+            "0xAB024BE0B3248CC2",
+            "0xB0EDE255574EF257",
+            "0xC7D40E4B733A2CBB",
+            "0xD6A3848BDB2510F6",
+            "0xDD531478B285A61F",
+            "0xEA83CEEB10FCE865",
+            "0xF49159FFF6678201"
+          ],
+          "source": "steam"
+        },
+        {
+          "type": "unit",
+          "include": [
+            "0x0F7DD2C2990A6341",
+            "0x1014E07127BEA3C6",
+            "0x34E309B57FA80FD1",
+            "0x3C1B8C1273F27629",
+            "0x57330F2285CAE2CF",
+            "0x5F348D68D3848478",
+            "0x6757E4C554FEA738",
+            "0x68E485BB9FDD8DF4",
+            "0x7302EE934AFFA6F3",
+            "0x811F2FBCBC10DE85",
+            "0xA701A354F7802A3E",
+            "0xA9A3F0678242267C",
+            "0xC0A95A247129132F",
+            "0xC750E7134609475A",
+            "0xD244444FC6579882",
+            "0xDB2F41A326D7C23E",
+            "0xE05880E38891DB61"
+          ],
+          "source": "steam"
+        }
+      ]
+    },
+    {
+      "archives": [
+        "fdf011daecf24312"
+      ],
+      "resources": [
+        {
+          "type": "particles",
+          "include": [
+            "0x0E28A75974A24AD1",
+            "0x36BFE9DFC7F67511",
+            "0x57C6AE220C7CE8D5",
+            "0x80BD2D748616EBED",
+            "0xBEA4385964EB0E0B",
+            "0xE40175DB88DE7351",
+            "0xE817D669E35A9BA0"
+          ],
+          "source": "steam"
+        }
+      ]
+    }
+  ]
+}

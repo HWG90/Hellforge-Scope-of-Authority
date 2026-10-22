@@ -1,0 +1,12 @@
+# Built from the player's own game files; never committed (tools/build_data.sh and tools/gen.py rebuild them)
+mod/data/
+mod/src/live_data.h
+# Disassembly of HellForge's closed-source loader: kept locally for research only
+research/*.asm
+# Build and tool leftovers
+__pycache__/
+*.pyc
+*.exe
+*.pdb
+*.dll
+build/

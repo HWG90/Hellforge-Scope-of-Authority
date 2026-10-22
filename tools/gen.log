@@ -1,0 +1,37 @@
+== sightliner 41f2def484634b59 base 03e67a19b07c6523
+  sightliner: default 1396036117 "RIFLE Simo. Short " is not in the pinned build: its delta is applied, the item dropped
+  WeaponDataComponentData +940 ability 2694 -> 2684 (donor)
+  WeaponReloadComponentData +4 ability 2765 -> 2750 (donor)
+== mist 027dec442cc26a90 base 3575aabc5f1f9326
+  WeaponDataComponentData +940 ability 2712 -> 0 (donor)
+  WeaponReloadComponentData +4 ability 2808 -> 2794 (donor)
+== apex b814eece17533bc4 base 9f80d67a12a7e40f
+  apex: default 4105418159 "DUO SNIPER SCOPE 10x" is not in the pinned build: its delta is applied, the item dropped
+  WeaponAssistedReloadComponentData +0 ability 2630 -> 61 (donor)
+  WeaponAssistedReloadComponentData +4 ability 2629 -> 60 (donor)
+  WeaponDataComponentData +940 ability 2677 -> 2708 (donor)
+  WeaponReloadComponentData +4 ability 2835 -> 2820 (donor)
+  BackblastComponentData: the base's, with its cone (+0 length, +4 factor) zeroed: the Apex has none
+== apex_pack 0949eeb3dc920324 base 96dfc6542aa22980
+== nova 73d84eaae8c75342 base 35a61296619cc47e
+  nova: default 1531812051 "ION SCOPE 4x" is not in the pinned build: its delta is applied, the item dropped
+  WeaponHeatComponentData +584 ability 2881 -> 2862 (donor)
+== apex_rack 77bb9410010b0f6e base ddee9646723e09d3
+== nova_rack 2becc6299fa6bd20 base 67ac082ff6d142f3
+damage live 81 -> copy of 71
+damage live 146 -> copy of 103
+damage live 217 -> copy of 95
+damage live 394 -> copy of 61
+projectile live 167 -> copy of 291, fixes [(60, 2, 81)]
+  WARNING projectile 182 +168 enum SurfaceImpactType 273 unmapped
+  WARNING projectile 182 +172 enum SurfaceImpactType 273 unmapped
+projectile live 182 -> copy of 179, fixes [(60, 2, 394)]
+projectile live 228 -> copy of 35, fixes [(60, 2, 146)]
+projectile live 277 -> copy of 111, fixes [(60, 2, 217)]
+base packages {'sightliner': '2404fa21fe49c32d', 'mist': '99f20df1c4cf885a', 'apex': '6ca87637eaeb5923', 'apex_pack': '15eb7241c3616351', 'nova': 'cf1acde501ccfa1b', 'apex_rack': '0000000000000000', 'nova_rack': '0000000000000000'}
+patch ff0ada8dd2ee32cc -> ['2404fa21fe49c32d'] new {'bones': 1, 'wwise_bank': 1, 'physics': 1, 'animation': 5, 'state_machine': 1, 'particles': 1, 'wwise_dep': 1, 'texture': 3, 'unit': 1, 'material': 1} from the game copy {'bones': 1, 'physics': 1, 'texture': 7, 'unit': 2, 'material': 4}
+patch 7160179c08dd7d81 -> ['99f20df1c4cf885a'] new {'bones': 2, 'wwise_bank': 1, 'physics': 2, 'animation': 10, 'state_machine': 1, 'particles': 1, 'wwise_dep': 1, 'texture': 6, 'unit': 2, 'material': 2} from the game copy {}
+patch a193a00ce4bbd529 -> ['6ca87637eaeb5923'] new {'bones': 3, 'wwise_bank': 1, 'physics': 2, 'animation': 10, 'state_machine': 1, 'particles': 1, 'wwise_dep': 1, 'texture': 9, 'unit': 3, 'material': 3} from the game copy {'particles': 2, 'texture': 4, 'unit': 1, 'material': 3}
+patch 6f09a6ce25c8ca77 -> ['15eb7241c3616351'] new {'bones': 1, 'physics': 1, 'animation': 1, 'state_machine': 1, 'texture': 7, 'unit': 1, 'material': 3} from the game copy {'texture': 2}
+patch 601d726de9c3962f -> ['cf1acde501ccfa1b'] new {'bones': 1, 'wwise_bank': 1, 'physics': 1, 'animation': 1, 'state_machine': 1, 'particles': 3, 'wwise_dep': 1, 'texture': 4, 'unit': 1, 'material': 3} from the game copy {'bones': 1, 'texture': 4, 'unit': 1, 'material': 3}
+new in live, patched in place: 433 resources in 37 archives {'texture': 115, 'material': 76, 'particles': 44, 'physics': 12, 'wwise_stream': 86, 'animation': 66, 'unit': 33, 'wwise_bank': 1}

@@ -1,0 +1,7 @@
+{
+  "format": 1,
+  "raw": [
+    { "component": "WeaponDataComponentData", "resource": "0x2968DEBA6D6C2F09", "offset": "0x180", "type": "u32",
+      "expect": 65537, "value": 65536, "own": true }
+  ]
+}
